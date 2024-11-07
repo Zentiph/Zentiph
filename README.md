@@ -1,12 +1,5 @@
 # hello, welcome!
-
-## about
-- self-taught python programmer
-- (some) previous experience in lua, luau, and c
-- majoring in CS this fall
+everyone’s least favorite programmer (python & c++), editor, gym goer, and college student
 
 ## what i'm up to
-i'm currently developing a python package with a friend called 'devgizmos'
-it's meant to be a developer toolkit of sorts, containing useful classes/funcs for other codebases
-it's more of a learning project but hopefully it will have some useful features
-feel free to check it out at [Zentiph/devgizmos](https://github.com/Zentiph/devgizmos)
+i'm currently developing a [personal Discord bot](https://github.com/Zentiph/CatBot) for me and my buddies as well as [my own programming language](https://github.com/Zentiph/Zen) to learn how they work.
