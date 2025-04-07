@@ -1,12 +1,14 @@
 # Hello, welcome!
 I'm Gavin, a first-year college student at RIT studying computer science.
 
+
 ## Skills
 * Python (3+ yrs)
 * Java (1 yr)
 * Lua/Luau (2+ yrs)
 * HTML (1 yr)
 * CSS (1 yr)
+
 
 ## What I'm Up To
 [CatBot](https://github.com/Zentiph/CatBot)
@@ -15,6 +17,7 @@ I'm Gavin, a first-year college student at RIT studying computer science.
 * Color role commands
 * Fun commands
 * Etc.
+
 [Zen Programming Language](https://github.com/Zentiph/Zen)
 * My own programming language made to better understand how they work
 * Inspired by Python and Java syntax
