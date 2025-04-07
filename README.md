@@ -9,4 +9,13 @@ I'm Gavin, a first-year college student at RIT studying computer science.
 * CSS (1 yr)
 
 ## What I'm Up To
-I'm currently developing a [personal Discord bot](https://github.com/Zentiph/CatBot) for me and my buddies as well as [my own programming language](https://github.com/Zentiph/Zen) to learn how they work.
+[CatBot](https://github.com/Zentiph/CatBot)
+* General, all-purpose Discord bot
+* Moderation tools
+* Color role commands
+* Fun commands
+* Etc.
+[Zen Programming Language](https://github.com/Zentiph/Zen)
+* My own programming language made to better understand how they work
+* Inspired by Python and Java syntax
+* Goal is to make a type-safe language like Java that is still fast to write like Python
