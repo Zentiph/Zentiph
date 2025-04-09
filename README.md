@@ -11,18 +11,18 @@ I'm Gavin, a first-year college student at RIT studying computer science.
 
 
 ## What I'm Up To
-[CodeQuilt](https://github.com/justianisdev/CodeQuilt)
+### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 * Collection of random web projects made by the developers
 * Games & random tools
 
-[CatBot](https://github.com/Zentiph/CatBot)
+### [CatBot](https://github.com/Zentiph/CatBot)
 * General, all-purpose Discord bot
 * Moderation tools
 * Color role commands
 * Fun commands
 * Etc.
 
-[Zen Programming Language](https://github.com/Zentiph/Zen)
+### [Zen Programming Language](https://github.com/Zentiph/Zen)
 * My own programming language made to better understand how they work
 * Inspired by Python and Java syntax
 * Goal is to make a type-safe language like Java that is still fast to write like Python
