@@ -13,14 +13,14 @@ I'm Gavin, a first-year college student at RIT studying computer science.
 ## What I'm Up To
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 * Collection of random web projects made by the developers
-* Games & random tools
+* Games, tools, and other nicknacks
 
 ### [CatBot](https://github.com/Zentiph/CatBot)
 * General, all-purpose Discord bot
 * Moderation tools
 * Color role commands
 * Fun commands
-* Etc.
+* More
 
 ### [Zen Programming Language](https://github.com/Zentiph/Zen)
 * My own programming language made to better understand how they work
