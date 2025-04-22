@@ -1,4 +1,6 @@
-![github-banner](https://github.com/user-attachments/assets/d493305e-6f6a-4107-8ed3-12ed37df48c5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d493305e-6f6a-4107-8ed3-12ed37df48c5" alt="rippling pond with zentiph displayed on top">
+</p>
 
 
 <h1 align="center">👋 Hello, welcome!</h1>
