@@ -55,4 +55,9 @@ A statically-typed, compiled programming language developed from scratch as a pe
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
 
 
+<h2 align="center">Contact Me</h2>
+
+If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me at [zentiphdev@gmail.com](mailto:zentiphdev@gmail.com).
+
+
 <sub>(Special thanks to my friend [Noah](https://github.com/gamerjamer43) for letting me ~~copy~~ borrow some of his profile formatting!)</sub>
