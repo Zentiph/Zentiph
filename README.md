@@ -34,10 +34,25 @@ I love building projects, I've been doing it since middle school. I started out 
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other nicknacks.
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/justianisdev/CodeQuilt?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/justianisdev/codequilt)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/justianisdev/codequilt)
+
+
 ### [CatBot](https://github.com/zentiph/CatBot)
 A general, all-purpose Discord bot made for a friend group server. CatBot currently featured moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/catbot?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/zentiph/catbot)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/catbot)
+
+
 ### [Zen](https://github.com/Zentiph/Zen)
 A statically-typed, compiled programming language developed from scratch as a personal learning project. It aims to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/zen?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/zentiph/zen)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
+
 
 <sub>(Special thanks to my friend [Noah](https://github.com/gamerjamer43) for letting me ~~copy~~ borrow some of his profile formatting!)</sub>
