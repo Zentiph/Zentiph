@@ -14,7 +14,7 @@ I love building projects, I've been doing it since middle school. I started out 
 </p>
 
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Languages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python&logoColor=3776AB" alt="python logo"/>
