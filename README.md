@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="github-banner](https://github.com/user-attachments/assets/70020b57-aeda-40e5-b6e5-9dc3aecd6330" alt='rippling pond with "zentiph" written overtop'>
-</p>
+![github-banner](https://github.com/user-attachments/assets/d493305e-6f6a-4107-8ed3-12ed37df48c5)
 
 
 <h1 align="center">👋 Hello, welcome!</h1>
