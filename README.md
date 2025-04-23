@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/187f2bb0-ad88-494b-938f-3f821521e538" alt="rippling pond with zentiph displayed on top">
+  <img src="https://github.com/user-attachments/assets/3391eeeb-861e-468e-8a02-797d03a8d485" alt="rippling pond with zentiph displayed on top">
 </p>
 
 
