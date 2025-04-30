@@ -7,7 +7,7 @@
 
 I'm **Gavin**, a first-year college student at RIT studying computer science.
 
-I love building projects; I've been doing it since middle school. I started out experimenting with Roblox Studio, although I didn't start coding until my junior year of highschool, which was when I learned HTML. From there, I learned Python my senior year, and then Java, CSS, and JS at RIT. I've also started to tinker with React, although I'm still fairly new.
+I love building projects; I've been doing it since middle school. I started out experimenting with Roblox Studio, although I didn't start coding until my junior year of high school, which was when I learned HTML. From there, I learned Python my senior year, and then Java, CSS, and JS at RIT. I've also started to tinker with React, although I'm still fairly new.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe" alt="profile view count">
