@@ -17,7 +17,7 @@ I love building projects; I've been doing it since middle school. I started out 
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python&logoColor=3776AB" alt="python logo"/>
+  <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="java logo"/>
   <br/>
   <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5 logo"/>
