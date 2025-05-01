@@ -21,12 +21,12 @@ I love building projects; I've been doing it since middle school. I started out 
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
   <br/>
   <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
-  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css" alt="css3 logo"/>
+  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
   <img src="https://img.shields.io/badge/javascript-0f0f0f?style=for-the-badge&logo=javascript" alt="javascript logo"/>
   <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" alt="react logo"/>
   <br/>
-  <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua" alt="lua logo"/>
-  <img src="https://img.shields.io/badge/roblox_studio-0f0f0f?style=for-the-badge&logo=robloxstudio" alt="roblox studio logo"/>
+  <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="lua logo"/>
+  <img src="https://img.shields.io/badge/roblox_studio-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
 </p>
 
 
