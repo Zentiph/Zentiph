@@ -41,7 +41,7 @@ A collection of random web projects made by a group of developer friends, includ
 
 
 ### [CatBot](https://github.com/zentiph/CatBot)
-A general, all-purpose Discord bot made for a friend group server. CatBot currently featured moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
+A general, all-purpose Discord bot made for a friend group server. Currently features moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/catbot?authorFilter=zentiph)
 ![GitHub License](https://img.shields.io/github/license/zentiph/catbot)
