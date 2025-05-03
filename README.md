@@ -14,7 +14,7 @@ I love building projects; I've been doing it since middle school. I started out 
 </p>
 
 
-<h2 align="center">Languages</h2>
+<h2 align="center">🧑‍💻 Languages</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
@@ -30,7 +30,7 @@ I love building projects; I've been doing it since middle school. I started out 
 </p>
 
 
-<h2 align="center">Projects</h2>
+<h2 align="center">🛠️ Projects</h2>
 
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other nicknacks.
@@ -56,7 +56,7 @@ A statically-typed, compiled programming language developed from scratch as a pe
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
 
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">📬 Contact Me</h2>
 
 If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me at [zentiphdev@gmail.com](mailto:zentiphdev@gmail.com).
 
