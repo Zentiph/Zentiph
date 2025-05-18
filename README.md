@@ -26,7 +26,7 @@ I love building projects; I've been doing it since middle school. I started out 
   <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" alt="react logo"/>
   <br/>
   <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="lua logo"/>
-  <img src="https://img.shields.io/badge/roblox_studio-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
+  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
 </p>
 
 
