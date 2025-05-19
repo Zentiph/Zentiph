@@ -32,6 +32,22 @@ I love building projects; I've been doing it since middle school. I started out 
 
 <h2 align="center">🛠️ Projects</h2>
 
+### [Zen](https://github.com/Zentiph/Zen)
+A statically-typed, compiled programming language developed from scratch as a personal learning project, aiming to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/zen?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/zentiph/zen)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
+
+
+### [FlaskNAS](https://github.com/Tebsickle/FlaskNAS)
+A secure network storage system using Flask and Jinja2 that allows users to upload, browse, and manage files over a Flask-based web application.
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tebsickle/flasknas?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/tebsickle/flasknas)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tebsickle/flasknas)
+
+
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other nicknacks.
 
@@ -40,20 +56,20 @@ A collection of random web projects made by a group of developer friends, includ
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/justianisdev/codequilt)
 
 
+### [Cat Server DCO](https://github.com/Zentiph/Cat-Server-DCO)
+Code for an obby (obstacle course) Roblox game involving custom client-sided objects, checkpoints system, datastores, and more.
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/cat-server-dco?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/zentiph/cat-server-dco)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/cat-server-dco)
+
+
 ### [CatBot](https://github.com/zentiph/CatBot)
 A general, all-purpose Discord bot made for a friend group server. Currently features moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/catbot?authorFilter=zentiph)
 ![GitHub License](https://img.shields.io/github/license/zentiph/catbot)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/catbot)
-
-
-### [Zen](https://github.com/Zentiph/Zen)
-A statically-typed, compiled programming language developed from scratch as a personal learning project. It aims to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zentiph/zen?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/zen)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
 
 
 <h2 align="center">📬 Contact Me</h2>
