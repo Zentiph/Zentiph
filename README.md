@@ -20,8 +20,9 @@ I love building projects; I've been doing it since middle school. I started out 
 <h2 align="center">🧑‍💻 Languages</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
+  <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
+  <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
   <br/>
   <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
   <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
@@ -49,13 +50,6 @@ A library that helps developers write, defensive, self-documenting Python code.
 ![GitHub License](https://img.shields.io/github/license/zentiph/ironclad)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/ironclad)
 
-### [Graphogato](https://github.com/zentiph/Graphogato)
-A graphing calulator made in Java.
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/Graphogato?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/Graphogato)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/Graphogato)
-
 ### [Zen](https://github.com/Zentiph/Zen)
 A statically-typed, compiled programming language developed from scratch as a personal learning project, aiming to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
 
@@ -63,6 +57,12 @@ A statically-typed, compiled programming language developed from scratch as a pe
 ![GitHub License](https://img.shields.io/github/license/zentiph/zen)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
 
+### [Graphogato](https://github.com/zentiph/Graphogato)
+A graphing calulator made in Java.
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/Graphogato?authorFilter=zentiph)
+![GitHub License](https://img.shields.io/github/license/zentiph/Graphogato)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/Graphogato)
 
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other nicknacks.
@@ -70,7 +70,6 @@ A collection of random web projects made by a group of developer friends, includ
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/justianisdev/CodeQuilt?authorFilter=zentiph)
 ![GitHub License](https://img.shields.io/github/license/justianisdev/codequilt)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/justianisdev/codequilt)
-
 
 ### [Cat Server DCO](https://github.com/Zentiph/Cat-Server-DCO)
 Code for an obby (obstacle course) Roblox game involving custom client-sided objects, checkpoints system, datastores, and more.
