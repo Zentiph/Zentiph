@@ -10,7 +10,7 @@ I'm **Gavin**, a second-year college student at RIT studying computer science.
 
 <h2 align="center">🙋 About Me</h2>
 
-I love building projects; I've been doing it since middle school. I started out experimenting with Roblox Studio, although I didn't start coding until my junior year of high school, when I first learned HTML. From there, I learned Python and Lua/Luau my senior year, and then Java, CSS, and a tiny bit of JS at RIT. I've also started to tinker with React, TypeScript, and C, although I'm still fairly new.
+I love building projects; I've been doing it since middle school. I started out experimenting with Roblox Studio, although I didn't start coding until my junior year of high school, when I first learned HTML. From there, I learned Python and Lua/Luau my senior year, and then Java, C, CSS, and a tiny bit of JS at RIT. I've also tinkered with React and TypeScript, although I'm still fairly new.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe" alt="profile view count">
