@@ -78,6 +78,18 @@ A statically-typed, compiled programming language developed from scratch as a pe
 [![Stars](https://img.shields.io/github/stars/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/stargazers)
 [![Issues](https://img.shields.io/github/issues/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/issues)
 
+### [pyit](https://github.com/zentiph/pyit)
+A simple issue ticket system made in Python with the yaml library to quickly add, track, and close issue tickets to better manage projects.
+
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/commits/main)
+<br/>
+[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/python)
+[![GitHub License](https://img.shields.io/github/license/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/pyit/blob/main/LICENSE.md)
+<br/>
+[![Stars](https://img.shields.io/github/stars/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/stargazers)
+[![Issues](https://img.shields.io/github/issues/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/issues)
+
 ### [Graphogato](https://github.com/zentiph/Graphogato)
 A graphing calulator made in Java.
 
