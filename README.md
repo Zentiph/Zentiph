@@ -13,9 +13,9 @@ I'm **Gavin**, a second-year college student at RIT studying computer science.
 I love building projects. I started coding in my junior year of high school, when I first learned HTML. From there, I learned Python and Lua/Luau my senior year, and then Java, C, CSS, and a tiny bit of JS at RIT. I've also tinkered with React and TypeScript, although I'm still fairly new.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe" alt="profile view count">
+  <img src="https://komarev.com/ghpvc/?username=zentiph&style=plastic&color=6c0ffe" alt="profile view count">
+  <img src="https://img.shields.io/github/followers/zentiph?style=plastic&logo=github" alt="follower count">
 </p>
-
 
 <h2 align="center">🧑‍💻 Languages</h2>
 
@@ -39,49 +39,53 @@ I love building projects. I started coding in my junior year of high school, whe
 ### [CatBot](https://github.com/zentiph/CatBot)
 A general, all-purpose Discord bot made for a friend group server. Currently features moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/catbot?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/catbot)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/catbot)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/catbot?style=plastic)
+![GitHub License](https://img.shields.io/github/license/zentiph/catbot?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zentiph/catbot?style=plastic)
 
 ### [ironclad](https://github.com/zentiph/ironclad)
 A library that helps developers write, defensive, self-documenting Python code.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/ironclad?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/ironclad)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/ironclad)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/ironclad?style=plastic)
+![GitHub License](https://img.shields.io/github/license/zentiph/ironclad?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zentiph/ironclad?style=plastic)
 
 ### [Zen](https://github.com/Zentiph/Zen)
 A statically-typed, compiled programming language developed from scratch as a personal learning project, aiming to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/zen?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/zen)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/zen)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/zen?style=plastic)
+![GitHub License](https://img.shields.io/github/license/zentiph/zen?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zentiph/zen?style=plastic)
 
 ### [Graphogato](https://github.com/zentiph/Graphogato)
 A graphing calulator made in Java.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/Graphogato?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/Graphogato)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/Graphogato)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/Graphogato?style=plastic)
+![GitHub License](https://img.shields.io/github/license/zentiph/Graphogato?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zentiph/graphogato?style=plastic)
 
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
 A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other nicknacks.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/justianisdev/CodeQuilt?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/justianisdev/codequilt)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/justianisdev/codequilt)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/justianisdev/CodeQuilt?style=plastic)
+![GitHub License](https://img.shields.io/github/license/justianisdev/codequilt?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/justianisdev/codequilt?style=plastic)
 
 ### [Cat Server DCO](https://github.com/Zentiph/Cat-Server-DCO)
 Code for an obby (obstacle course) Roblox game involving custom client-sided objects, checkpoints system, datastores, and more.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/cat-server-dco?authorFilter=zentiph)
-![GitHub License](https://img.shields.io/github/license/zentiph/cat-server-dco)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zentiph/cat-server-dco)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/cat-server-dco?style=plastic)
+![GitHub License](https://img.shields.io/github/license/zentiph/cat-server-dco?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/zentiph/cat-server-dco?style=plastic)
 
 
 <h2 align="center">📬 Contact Me</h2>
 
-If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me at [zentiphdev@gmail.com](mailto:zentiphdev@gmail.com).
+If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me.
+<p align="center">
+  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-zentiphdev%40gmail.com-0f0f0f?style=flat-square&logo=gmail" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
+  <img src="https://img.shields.io/badge/timezone-ET-0f0f0f?style=flat-square" alt="Zentiph's timezone (ET)">
+</p>
 
 
 <sub>(Special thanks to my friend [Noah](https://github.com/gamerjamer43) for letting me ~~copy~~ borrow some of his profile formatting!)</sub>
