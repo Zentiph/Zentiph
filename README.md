@@ -119,8 +119,8 @@ Code for an obby (obstacle course) Roblox game involving custom client-sided obj
 
 If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me.
 <p align="center">
-  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-zentiphdev%40gmail.com-0f0f0f?style=flat-square&logo=gmail" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
-  <img src="https://img.shields.io/badge/timezone-ET-0f0f0f?style=flat-square" alt="Zentiph's timezone (ET)">
+  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-zentiphdev%40gmail.com-6c0ffe?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
+  <img src="https://img.shields.io/badge/timezone-ET-6c0ffe?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
 </p>
 
 
