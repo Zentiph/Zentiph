@@ -13,8 +13,8 @@ I'm **Gavin**, a second-year college student at RIT studying computer science.
 I love building projects. I started coding in my junior year of high school, when I first learned HTML. From there, I learned Python and Lua/Luau my senior year, and then Java, C, CSS, and a tiny bit of JS at RIT. I've also tinkered with React and TypeScript, although I'm still fairly new.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github&labelColor=0f0f0f" alt="profile view count">
-  <img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=6c0ffe&logo=github&labelColor=0f0f0f" alt="follower count">
+  <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github" alt="profile view count">
+  <img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=6c0ffe&logo=github" alt="follower count">
 </p>
 
 <h2 align="center">🧑‍💻 Languages/Tools</h2>
