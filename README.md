@@ -10,7 +10,7 @@ I'm **Gavin**, a second-year college student at RIT studying computer science.
 
 <h2 align="center">🙋 About Me</h2>
 
-My language of choice is Python, and I've been coding in it for about 3 years now. I whole-heartedly believe that typed Python is the best language ever. However, I also enjoy programming in Java, C, Typescript, and React, although I'm still farily new to the last two. I have an interest in backend development/developer tools, as well as software enginerring, quality assurance, and general computer science principles.
+My language of choice is Python, and I've been coding in it for about 3 years now. I whole-heartedly believe that typed Python is the best language. However, I also enjoy programming in Java, C, Lua/Luau, Typescript, and React, although I'm still farily new to the last two. I have an interest in backend development/developer tools, as well as software enginerring, quality assurance, and general computer science principles.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github" alt="profile view count">
