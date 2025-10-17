@@ -10,7 +10,7 @@ I'm **Gavin**, a second-year college student at RIT studying computer science.
 
 <h2 align="center">🙋 About Me</h2>
 
-My language of choice is Python, and I've been coding in it for about 3 years now. I whole-heartedly believe that typed Python is the best language. However, I also enjoy programming in Java, C, Lua/Luau, Typescript, and React, although I'm still farily new to the last two. I have an interest in backend development/developer tools, as well as software engineering, quality assurance, and general computer science principles.
+I was introducted to programming when I started programming in Python in 2023. While I wholeheartedly believe that typed Python is the best language, I also enjoy programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two. I have an interest in backend development/developer tools, as well as software engineering, quality assurance, and general computer science principles.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github" alt="profile view count">
@@ -119,10 +119,10 @@ A collection of random web projects made by a group of developer friends, includ
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
 </p>
 
 
