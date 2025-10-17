@@ -110,6 +110,7 @@ A collection of random web projects made by a group of developer friends, includ
   <br/>
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
   <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" alt="junit5 logo"/>
+  <img src="https://img.shields.io/badge/gradle-0f0f0f?style=for-the-badge&logo=gradle" alt="gradle logo"/>
   <br/>
   <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
   <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" alt="gnu logo"/>
@@ -121,6 +122,10 @@ A collection of random web projects made by a group of developer friends, includ
   <br/>
   <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="lua logo"/>
   <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/git-0f0f0f?style=for-the-badge&logo=git" alt="git logo"/>
+  <img src="https://img.shields.io/badge/github-0f0f0f?style=for-the-badge&logo=github" alt="github logo"/>
+  <img src="https://img.shields.io/badge/docker-0f0f0f?style=for-the-badge&logo=docker" alt="docker logo"/>
 </p>
 
 
