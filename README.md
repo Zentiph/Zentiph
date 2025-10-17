@@ -8,6 +8,14 @@
 I'm **Gavin**, a second-year college student at RIT studying computer science.
 
 
+<p align="center">
+  <a href="#-project-showcase">Projects</a> •
+  <a href="#-languages-tools">Skills</a> •
+  <a href="#-stats">Stats</a> •
+  <a href="#-contact-me">Contact</a>
+</p>
+
+
 <h2 align="center">🙋 About Me</h2>
 
 I was introducted to programming when I started programming in Python in 2023. While I wholeheartedly believe that typed Python is the best language, I also enjoy programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two. I have an interest in backend development/developer tools, as well as software engineering, quality assurance, and general computer science principles.
@@ -18,7 +26,7 @@ I was introducted to programming when I started programming in Python in 2023. W
 </p>
 
 
-<h2 align="center">🛠️ Project Showcase</h2>
+<h2 align="center" id="project-showcase">🛠️ Project Showcase</h2>
 
 ### [CatBot](https://github.com/zentiph/CatBot)
 A general, all-purpose Discord bot made for a friend group server. Currently features moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
@@ -94,7 +102,7 @@ A collection of random web projects made by a group of developer friends, includ
 [![Issues](https://img.shields.io/github/issues/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/issues)
 
 
-<h2 align="center">🧑‍💻 Languages/Tools</h2>
+<h2 align="center" id="languages-tools">🧑‍💻 Languages/Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
@@ -116,7 +124,7 @@ A collection of random web projects made by a group of developer friends, includ
 </p>
 
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center" id="stats">📊 Stats</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
@@ -126,7 +134,7 @@ A collection of random web projects made by a group of developer friends, includ
 </p>
 
 
-<h2 align="center">📬 Contact Me</h2>
+<h2 align="center" id="contact-me">📬 Contact Me</h2>
 
 If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me.
 <p align="center">
