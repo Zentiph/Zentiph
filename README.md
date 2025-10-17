@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hello, welcome!</h1>
 
-I'm **Gavin**, a second-year college student at RIT studying computer science.
+I'm **Gavin**, an undergraduate RIT CS student interested in comp sci, software eng, QA, and backend.
 
 
 <p align="center">
@@ -136,7 +136,7 @@ A collection of random web projects made by a group of developer friends, includ
 
 <h2 align="center" id="contact-me">📬 Contact Me</h2>
 
-If you have any questions, comments, or other matters you'd like to speak with me about, feel free to reach out to me.
+If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, feel free to reach out.
 <p align="center">
   <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-zentiphdev%40gmail.com-6c0ffe?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
   <img src="https://img.shields.io/badge/timezone-ET-6c0ffe?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
