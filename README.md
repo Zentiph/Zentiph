@@ -110,7 +110,7 @@ A collection of random web projects made by a group of developer friends, includ
   <br/>
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
   <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" alt="junit5 logo"/>
-  <img src="https://img.shields.io/badge/gradle-0f0f0f?style=for-the-badge&logo=gradle" alt="gradle logo"/>
+  <img src="https://img.shields.io/badge/gradle-0f0f0f?style=for-the-badge&logo=gradle&logoColor=02303A" alt="gradle logo"/>
   <br/>
   <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
   <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" alt="gnu logo"/>
