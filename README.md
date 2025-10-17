@@ -9,10 +9,10 @@ I'm **Gavin**, a second-year college student at RIT studying computer science.
 
 
 <p align="center">
-  <a href="#-project-showcase">Projects</a> •
-  <a href="#-languages-tools">Skills</a> •
-  <a href="#-stats">Stats</a> •
-  <a href="#-contact-me">Contact</a>
+  <a href="#project-showcase">Projects</a> •
+  <a href="#languages-tools">Skills</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact-me">Contact</a>
 </p>
 
 
