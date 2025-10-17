@@ -14,7 +14,7 @@ My language of choice is Python, and I've been coding in it for about 3 years no
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github" alt="profile view count">
-  <img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=6c0ffe&logo=github" alt="follower count">
+  <a href="https://github.com/Zentiph?tab=followers"><img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=6c0ffe&logo=github" alt="follower count"></a>
 </p>
 
 <h2 align="center">🧑‍💻 Languages/Tools</h2>
