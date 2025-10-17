@@ -17,29 +17,8 @@ My language of choice is Python, and I've been coding in it for about 3 years no
   <a href="https://github.com/Zentiph?tab=followers"><img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=6c0ffe&logo=github" alt="follower count"></a>
 </p>
 
-<h2 align="center">🧑‍💻 Languages/Tools</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
-  <img src="https://img.shields.io/badge/pytest-0f0f0f?style=for-the-badge&logo=pytest" alt="pytest logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
-  <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" alt="junit5 logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
-  <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" alt="gnu logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
-  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
-  <img src="https://img.shields.io/badge/typescript-0f0f0f?style=for-the-badge&logo=typescript" alt="typescript logo"/>
-  <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" alt="react logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="lua logo"/>
-  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
-</p>
-
-
-<h2 align="center">🛠️ Projects</h2>
+<h2 align="center">🛠️ Project Showcase</h2>
 
 ### [CatBot](https://github.com/zentiph/CatBot)
 A general, all-purpose Discord bot made for a friend group server. Currently features moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
@@ -114,17 +93,37 @@ A collection of random web projects made by a group of developer friends, includ
 [![Stars](https://img.shields.io/github/stars/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/stargazers)
 [![Issues](https://img.shields.io/github/issues/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/issues)
 
-### [Cat Server DCO](https://github.com/Zentiph/Cat-Server-DCO)
-Code for an obby (obstacle course) Roblox game involving custom client-sided objects, checkpoints system, datastores, and more.
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/cat-server-dco?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/cat-server-dco/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/cat-server-dco?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/cat-server-dco/commits/main)
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/cat-server-dco?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/luau)
-[![GitHub License](https://img.shields.io/github/license/zentiph/cat-server-dco?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/cat-server-dco/blob/main/LICENSE.md)
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/cat-server-dco?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/cat-server-dco/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/cat-server-dco?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/cat-server-dco/issues)
+<h2 align="center">🧑‍💻 Languages/Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
+  <img src="https://img.shields.io/badge/pytest-0f0f0f?style=for-the-badge&logo=pytest" alt="pytest logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
+  <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" alt="junit5 logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
+  <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" alt="gnu logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
+  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
+  <img src="https://img.shields.io/badge/typescript-0f0f0f?style=for-the-badge&logo=typescript" alt="typescript logo"/>
+  <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" alt="react logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="lua logo"/>
+  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
+</p>
+
+
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+</p>
 
 
 <h2 align="center">📬 Contact Me</h2>
