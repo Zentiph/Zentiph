@@ -153,6 +153,7 @@ A collection of random web projects made by a group of developer friends, includ
 
 If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, feel free to reach out.
 <p align="center">
-  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-zentiphdev%40gmail.com-6c0ffe?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
+  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-zentiphdev%40gmail.com-6c0ffe?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
+  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-6c0ffe?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="Zentiph's LinkedIn (https://www.linkedin.com/in/gavin-borne/)"></a>
   <img src="https://img.shields.io/badge/timezone-ET-6c0ffe?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
 </p>
