@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hello, welcome!</h1>
 
-I'm **Gavin**, an undergraduate RIT CS student interested in comp sci, software eng, QA, and backend.
+I'm **Gavin**, an undergraduate student studying CS at RIT. I'm interested in comp sci, software eng, QA, and backend.
 
 
 <p align="center">
@@ -29,7 +29,9 @@ I was introducted to programming when I started programming in Python in 2023. W
 <h2 align="center" id="project-showcase">🛠️ Project Showcase</h2>
 
 ### [CatBot](https://github.com/zentiph/CatBot)
-A general, all-purpose Discord bot made for a friend group server. Currently features moderation tools, fully customizable color role commands, fun commands such as coin flips and random value generators, and more.
+A general, all-purpose Discord bot made for a friend group server.
+* 60+ user-interactive slash commands to play games, customize role colors, and more
+* 10+ moderation slash commands for server administration
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/commits/main) 
@@ -42,6 +44,9 @@ A general, all-purpose Discord bot made for a friend group server. Currently fea
 
 ### [ironclad](https://github.com/zentiph/ironclad)
 A library that helps developers write, defensive, self-documenting Python code.
+* Decorators and helper utilities to enforce types, value sets, and other runtime contracts
+* Additional runtime-related tools such as Java-like function overloads
+* Low-boilerplate API
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/ironclad/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/ironclad/commits/main)
@@ -67,6 +72,11 @@ A statically-typed, compiled programming language developed from scratch as a pe
 
 ### [pyit](https://github.com/zentiph/pyit)
 A simple issue ticket system made in Python with the yaml library to quickly add, track, and close issue tickets to better manage projects.
+* Create tickets
+* Close tickets
+* View specific tickets
+* List all tickets
+* Sort and filter ticket lists
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/commits/main)
@@ -78,7 +88,7 @@ A simple issue ticket system made in Python with the yaml library to quickly add
 [![Issues](https://img.shields.io/github/issues/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/issues)
 
 ### [Graphogato](https://github.com/zentiph/Graphogato)
-A graphing calulator made in Java.
+A graphing calulator made in Java with JavaFX.
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
@@ -90,7 +100,7 @@ A graphing calulator made in Java.
 [![Issues](https://img.shields.io/github/issues/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/issues)
 
 ### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
-A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other nicknacks.
+A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other knickknacks.
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/commits/main)
