@@ -42,6 +42,21 @@ A general, all-purpose Discord bot made for a friend group server.
 [![Stars](https://img.shields.io/github/stars/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/stargazers)
 [![Issues](https://img.shields.io/github/issues/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/issues)
 
+### [codimate](https://github.com/zentiph/codimate)
+An engine for programmatic code animations, inspired by [3b1b's manim](https://github.com/3b1b/manim).
+* Rust API for creating frames/scenes
+* Pipeline to ffmpeg for video rendering
+* Python wrapper API for improved development speed while maintaining blazingly fast rendering
+
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/commits/master) 
+<br/>
+[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/rust)
+[![GitHub License](https://img.shields.io/github/license/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/codimate/blob/master/LICENSE) 
+<br/>
+[![Stars](https://img.shields.io/github/stars/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/stargazers)
+[![Issues](https://img.shields.io/github/issues/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/issues)
+
 ### [ironclad](https://github.com/zentiph/ironclad)
 A library that helps developers write, defensive, self-documenting Python code.
 * Decorators and helper utilities to enforce types, value sets, and other runtime contracts
