@@ -43,7 +43,7 @@ A general, all-purpose Discord bot made for a friend group server.
 [![Issues](https://img.shields.io/github/issues/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/issues)
 
 ### [codimate](https://github.com/zentiph/codimate)
-An engine for programmatic code animations, inspired by [3b1b's manim](https://github.com/3b1b/manim).
+An engine for programmatic code animations, inspired by [3b1b's manim](https://github.com/3b1b/manim) and 2swap's [swaptube](https://github.com/2swap/swaptube).
 * Rust API for creating frames/scenes
 * Pipeline to ffmpeg for video rendering
 * Python wrapper API for improved development speed while maintaining blazingly fast rendering
