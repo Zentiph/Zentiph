@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3391eeeb-861e-468e-8a02-797d03a8d485" alt="rippling pond with zentiph displayed on top">
-</p>
+<h1 align="center">👋 Hi, I'm Gavin</h1>
 
-
-<h1 align="center">👋 Hello, welcome!</h1>
-
-I'm **Gavin**, an undergraduate student studying CS at RIT. I'm interested in comp sci, software eng, QA, and backend.
+I'm an undergraduate student studying CS at RIT. I'm interested in anything comp sci, software eng, QA, and backend.
 
 
 <p align="center">
