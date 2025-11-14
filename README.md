@@ -18,7 +18,7 @@ I'm **Gavin**, an undergraduate student studying CS at RIT. I'm interested in co
 
 <h2 align="center">🙋 About Me</h2>
 
-I was introduced to programming when I started programming in Python in 2023. While I wholeheartedly believe that typed Python is the best language, I also enjoy programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two. I'm also currently a student lab instructor (SLI) for one of the intro CS courses at RIT, which is an amazing opportunity and I'm loving being able to guide and tutor new students!
+I was introduced to programming when I started with Python in 2023. While I wholeheartedly believe that typed Python is the best language, I also enjoy programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two. I'm also currently a student lab instructor (SLI) for one of the intro CS courses at RIT, which is an amazing opportunity and I'm loving being able to guide and tutor new students!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github" alt="profile view count">
