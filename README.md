@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Gavin</h1>
 
-I'm an undergraduate student studying CS at RIT. I'm interested in anything comp sci, software eng, QA, and backend.
+<p align="center">
+  CS Undergrad @ RIT • Backend & Tooling Enjoyer • Lab Instructor for Intro CS @ RIT
+</p>
 
 
 <p align="center">
