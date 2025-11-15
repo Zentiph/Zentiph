@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I'm Gavin</h1>
 
 <p align="center">
-  CS Undergrad @ RIT • Backend & Tooling Enjoyer • Lab Instructor for Intro CS @ RIT
+  CS Undergrad @ RIT • Backend & Tooling Enjoyer • Always Learning New Things
 </p>
-
 
 <p align="center">
   <a href="#about-me">About</a> •
@@ -27,15 +26,21 @@ I was introduced to programming when I started with Python in 2023. Since then I
 
 <h2 align="center" id="currently">⚡ Currently</h2>
 
-- 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling  
-- 🧑‍🏫 Student Lab Instructor (SLI) for an intro CS course  
-- 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and working on <a href="https://github.com/Zentiph/codimate">codimate</a>  
-- 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
+* 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling  
+* 🧑‍🏫 Student Lab Instructor (SLI) for an intro CS course  
+* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and working on <a href="https://github.com/Zentiph/codimate">codimate</a>  
+* 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
 
 
 <h2 align="center" id="project-showcase">🛠️ Project Showcase</h2>
 
 ### [CatBot](https://github.com/zentiph/CatBot)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![discord.py](https://img.shields.io/badge/discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
 A general, all-purpose Discord bot made for a friend group server.
 * 60+ user-interactive slash commands to play games, customize role colors, and more
 * 10+ moderation slash commands for server administration
@@ -50,6 +55,10 @@ A general, all-purpose Discord bot made for a friend group server.
 [![Issues](https://img.shields.io/github/issues/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/issues)
 
 ### [codimate](https://github.com/zentiph/codimate)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 An engine for programmatic code animations, inspired by [3b1b's manim](https://github.com/3b1b/manim) and 2swap's [swaptube](https://github.com/2swap/swaptube).
 * Rust API for creating frames/scenes
 * Pipeline to ffmpeg for video rendering
@@ -65,6 +74,9 @@ An engine for programmatic code animations, inspired by [3b1b's manim](https://g
 [![Issues](https://img.shields.io/github/issues/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/issues)
 
 ### [ironclad](https://github.com/zentiph/ironclad)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
 A library that helps developers write, defensive, self-documenting Python code.
 * Decorators and helper utilities to enforce types, value sets, and other runtime contracts
 * Additional runtime-related tools such as Java-like function overloads
@@ -81,6 +93,8 @@ A library that helps developers write, defensive, self-documenting Python code.
 
 
 ### [Zen](https://github.com/Zentiph/Zen)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 A statically-typed, compiled programming language developed from scratch as a personal learning project, aiming to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/commits/main)
@@ -92,24 +106,12 @@ A statically-typed, compiled programming language developed from scratch as a pe
 [![Stars](https://img.shields.io/github/stars/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/stargazers)
 [![Issues](https://img.shields.io/github/issues/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/issues)
 
-### [pyit](https://github.com/zentiph/pyit)
-A simple issue ticket system made in Python with the yaml library to quickly add, track, and close issue tickets to better manage projects.
-* Create tickets
-* Close tickets
-* View specific tickets
-* List all tickets
-* Sort and filter ticket lists
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/commits/main)
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/python)
-[![GitHub License](https://img.shields.io/github/license/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/pyit/blob/main/LICENSE.md)
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/pyit?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/pyit/issues)
 
 ### [Graphogato](https://github.com/zentiph/Graphogato)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
 A graphing calulator made in Java with JavaFX.
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
@@ -120,18 +122,6 @@ A graphing calulator made in Java with JavaFX.
 <br/>
 [![Stars](https://img.shields.io/github/stars/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/stargazers)
 [![Issues](https://img.shields.io/github/issues/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/issues)
-
-### [CodeQuilt](https://github.com/justianisdev/CodeQuilt)
-A collection of random web projects made by a group of developer friends, including but not limited to games, tools, and other knickknacks.
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/commits/main)
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/typescript)
-[![GitHub License](https://img.shields.io/github/license/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/blob/main/LICENSE.md)
-<br/>
-[![Stars](https://img.shields.io/github/stars/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/stargazers)
-[![Issues](https://img.shields.io/github/issues/justianisdev/codequilt?style=flat-square&labelColor=0f0f0f)](https://github.com/justianisdev/codequilt/issues)
 
 
 <h2 align="center" id="languages-tools">🧑‍💻 Languages/Tools</h2>
@@ -172,6 +162,8 @@ A collection of random web projects made by a group of developer friends, includ
 
 
 <h2 align="center" id="contact-me">📬 Contact Me</h2>
+
+<!-- Most badge styles taken from https://github.com/Ileriayo/markdown-badges -->
 
 If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, feel free to reach out.
 <p align="center">
