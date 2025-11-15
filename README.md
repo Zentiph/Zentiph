@@ -11,7 +11,7 @@
   <a href="#project-showcase">Projects</a> •
   <a href="#languages-tools">Skills</a> •
   <a href="#stats">Stats</a> •
-  <a href="#beyond-code">Stats</a> •
+  <a href="#beyond-code">Beyond Code</a> •
   <a href="#contact-me">Contact</a>
 </p>
 
