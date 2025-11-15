@@ -13,14 +13,15 @@
   <a href="#contact-me">Contact</a>
 </p>
 
-
 <h2 align="center" id="about-me">🙋 About Me</h2>
 
-I was introduced to programming when I started with Python in 2023. Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two. I'm also currently a student lab instructor (SLI) for one of the intro CS courses at RIT, which is an amazing opportunity and I'm loving being able to guide and tutor new students!
+I was introduced to programming when I started with Python in 2023.
+Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two.
+I'm interested in anything comp sci, SWEN, QA, backend, and other related fields, and I'm always learning new tools.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=6c0ffe&logo=github" alt="profile view count">
-  <a href="https://github.com/Zentiph?tab=followers"><img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=6c0ffe&logo=github" alt="follower count"></a>
+  <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=000000&logo=github" alt="profile view count">
+  <a href="https://github.com/Zentiph?tab=followers"><img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=000000&logo=github" alt="follower count"></a>
 </p>
 
 
@@ -154,10 +155,10 @@ A graphing calulator made in Java with JavaFX.
 <h2 align="center" id="stats">📊 Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=midnight_purple" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
 </p>
 
 
@@ -167,7 +168,7 @@ A graphing calulator made in Java with JavaFX.
 
 If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, feel free to reach out.
 <p align="center">
-  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-zentiphdev%40gmail.com-6c0ffe?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
-  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-6c0ffe?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="Zentiph's LinkedIn (https://www.linkedin.com/in/gavin-borne/)"></a>
-  <img src="https://img.shields.io/badge/timezone-ET-6c0ffe?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
+  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-zentiphdev%40gmail.com-000000?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
+  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="Zentiph's LinkedIn (https://www.linkedin.com/in/gavin-borne/)"></a>
+  <img src="https://img.shields.io/badge/timezone-ET-000000?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
 </p>
