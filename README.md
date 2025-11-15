@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Gavin</h1>
 
 <p align="center">
-  CS Undergrad @ RIT • Backend & Tooling Enjoyer • Always Learning New Things • Open to Internships/Co-ops
+  CS Undergrad @ RIT • Backend & Tooling Enjoyer • Open to Internships/Co-ops
 </p>
 
 
