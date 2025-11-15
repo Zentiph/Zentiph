@@ -169,6 +169,7 @@ A graphing calculator made in Java with JavaFX.
   <img src="https://img.shields.io/badge/typescript-0f0f0f?style=for-the-badge&logo=typescript" />
   <br/>
 </p>
+
 <p align="center">
   <!-- Testing -->
   <b>Testing:</b><br/>
@@ -194,22 +195,36 @@ A graphing calculator made in Java with JavaFX.
 </p>
 
 
+
 <h2 align="center" id="stats">📊 Stats</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Zentiph&show_icons=true&theme=dark&hide_border=true"
+    alt="Gavin's GitHub stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Zentiph&theme=dark&background=0f0f0f&hide_border=true" 
+    alt="GitHub Streak Stats" 
+  />
 </p>
+<details>
+  <summary align="center">More stats 📈</summary>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zentiph&theme=dark&background=0f0f0f&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+  <p align="center">
+    <img
+      src="https://github-contributor-stats.vercel.app/api?username=Zentiph&limit=5&theme=dark&combine_all_yearly_contributions=true"
+      alt="Top contribution repositories"
+    />
+  </p>
+  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zentiph&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+  
+
+</details>
 
 
 
