@@ -28,9 +28,9 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 
 <h2 align="center" id="currently">⚡ Currently</h2>
 
-* 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling  
-* 🧑‍🏫 Student Lab Instructor (SLI) for an intro CS course  
-* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and working on <a href="https://github.com/Zentiph/codimate">codimate</a>  
+* 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling
+* 🧑‍🏫 Student Lab Instructor (SLI) for an intro CS course, where I help new students debug code, understand core concepts, and build confidence
+* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and working on <a href="https://github.com/Zentiph/codimate">codimate</a>
 * 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
 
 
@@ -114,7 +114,7 @@ A statically-typed, compiled programming language developed from scratch as a pe
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-A graphing calulator made in Java with JavaFX.
+A graphing calculator made in Java with JavaFX.
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
 [![Last Commit](https://img.shields.io/github/last-commit/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
