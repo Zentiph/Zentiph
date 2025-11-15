@@ -129,27 +129,37 @@ A graphing calulator made in Java with JavaFX.
 <h2 align="center" id="languages-tools">🧑‍💻 Languages/Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
-  <img src="https://img.shields.io/badge/pytest-0f0f0f?style=for-the-badge&logo=pytest" alt="pytest logo"/>
+  <!-- Languages -->
+  <b>Languages:</b><br/>
+  <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/rust-0f0f0f?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/typescript-0f0f0f?style=for-the-badge&logo=typescript" />
   <br/>
-  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
-  <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" alt="junit5 logo"/>
-  <img src="https://img.shields.io/badge/gradle-0f0f0f?style=for-the-badge&logo=gradle&logoColor=02303A" alt="gradle logo"/>
+</p>
+<p align="center">
+  <!-- Testing -->
+  <b>Testing:</b><br/>
+  <img src="https://img.shields.io/badge/pytest-0f0f0f?style=for-the-badge&logo=pytest" />
+  <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" />
   <br/>
-  <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
-  <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" alt="gnu logo"/>
+</p>
+<p align="center">
+  <!-- Tooling -->
+  <b>Tooling & DevOps:</b><br/>
+  <img src="https://img.shields.io/badge/git-0f0f0f?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/github-0f0f0f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/docker-0f0f0f?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" />
   <br/>
-  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
-  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
-  <img src="https://img.shields.io/badge/typescript-0f0f0f?style=for-the-badge&logo=typescript" alt="typescript logo"/>
-  <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" alt="react logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="lua logo"/>
-  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/git-0f0f0f?style=for-the-badge&logo=git" alt="git logo"/>
-  <img src="https://img.shields.io/badge/github-0f0f0f?style=for-the-badge&logo=github" alt="github logo"/>
-  <img src="https://img.shields.io/badge/docker-0f0f0f?style=for-the-badge&logo=docker" alt="docker logo"/>
+</p>
+<p align="center">
+  <!-- Web / Frontend -->
+  <b>Web:</b><br/>
+  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" />
 </p>
 
 
