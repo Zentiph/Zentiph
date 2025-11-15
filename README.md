@@ -4,10 +4,10 @@
   CS Undergrad @ RIT • Backend & Tooling Enjoyer • Open to Internships/Co-ops
 </p>
 
-
 <p align="center">
   <a href="#about-me">About</a> •
   <a href="#currently">Currently</a> •
+  <a href="#spotlight">Spotlight</a> •
   <a href="#project-showcase">Projects</a> •
   <a href="#languages-tools">Skills</a> •
   <a href="#stats">Stats</a> •
@@ -33,6 +33,36 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 * 🧑‍🏫 Student Lab Instructor (SLI) for an intro CS course, where I help new students debug code, understand core concepts, and build confidence
 * 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and working on <a href="https://github.com/Zentiph/codimate">codimate</a>
 * 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
+
+
+<h2 align="center" id="spotlight">🚀 Project Spotlight</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zentiph/CatBot"><b>🐈‍⬛ CatBot</b></a><br/>
+      Discord bot with 60+ slash commands<br/>
+      <sub>Python · Docker · Discord API</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zentiph/ironclad"><b>🧱 ironclad</b></a><br/>
+      Runtime contracts for Python<br/>
+      <sub>Type safety · Decorators</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zentiph/zen"><b>🧪 Zen</b></a><br/>
+      Experimental compiled language<br/>
+      <sub>C · Compiler design</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zentiph/codimate"><b>🎬 codimate</b></a><br/>
+      Programmatic code animations<br/>
+      <sub>Rust · Python · ffmpeg</sub>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center" id="project-showcase">🛠️ Project Showcase</h2>
@@ -172,6 +202,15 @@ A graphing calculator made in Java with JavaFX.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zentiph&theme=dark&background=0f0f0f&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zentiph&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
 
 
 <h2 align="center" id="beyond-code">🎲 Beyond Code</h2>
