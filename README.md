@@ -110,7 +110,7 @@ An engine for programmatic code animations, inspired by [3b1b's manim](https://g
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
-A library that helps developers write, defensive, self-documenting Python code.
+A library that helps developers write defensive, self-documenting Python code.
 * Decorators and helper utilities to enforce types, value sets, and other runtime contracts
 * Additional runtime-related tools such as Java-like function overloads
 * Low-boilerplate API
