@@ -18,7 +18,7 @@
 <h2 align="center" id="about-me">🙋 About Me</h2>
 
 I was introduced to programming when I started with Python in 2023.
-Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, Typescript, and React, although I'm still fairly new to the last two.
+Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, TypeScript, and React, although I'm still fairly new to the last two.
 I'm interested in anything comp sci, SWEN, QA, backend, and other related fields, and I'm always learning new tools.
 
 <p align="center">
