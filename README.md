@@ -10,6 +10,7 @@
   <a href="#project-showcase">Projects</a> •
   <a href="#languages-tools">Skills</a> •
   <a href="#stats">Stats</a> •
+  <a href="#beyond-code">Stats</a> •
   <a href="#contact-me">Contact</a>
 </p>
 
@@ -160,6 +161,12 @@ A graphing calulator made in Java with JavaFX.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
 </p>
+
+
+<h2 align="center" id="beyond-code">🎲 Beyond Code</h2>
+
+* 🧩 I love building tools that make other developers' lives easier
+* ✏️ I enjoy mentoring and helping new programmers learn fundamentals
 
 
 <h2 align="center" id="contact-me">📬 Contact Me</h2>
