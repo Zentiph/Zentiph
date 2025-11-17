@@ -216,20 +216,21 @@ A graphing calculator made in Java with JavaFX.
     alt="Gavin's GitHub stats"
   />
   <br/>
+  <!-- this isn't working right now
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Zentiph&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
+  -->
 </p>
+<!-- also not currently working
 <details>
   <summary align="center">More stats 📈</summary>
-
   <p align="center">
     <img
       src="https://github-profile-trophy.vercel.app/?username=Zentiph&theme=onestar"
       alt="GitHub Trophies"
     />
   </p>
-
   <p align="center">
     <img
       src="https://github-contributor-stats.vercel.app/api?username=Zentiph&limit=5&theme=dark&combine_all_yearly_contributions=true"
@@ -237,6 +238,7 @@ A graphing calculator made in Java with JavaFX.
     />
   </p>
 </details>
+-->
 
 
 
@@ -247,6 +249,6 @@ A graphing calculator made in Java with JavaFX.
 If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, feel free to reach out.
 <p align="center">
   <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-zentiphdev%40gmail.com-000000?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
-  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="Zentiph's LinkedIn (https://www.linkedin.com/in/gavin-borne/)"></a>
+  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gavin--borne-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="Zentiph's LinkedIn"></a>
   <img src="https://img.shields.io/badge/timezone-ET-000000?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
 </p>
