@@ -11,7 +11,6 @@
   <a href="#project-showcase">Projects</a> •
   <a href="#languages-tools">Skills</a> •
   <a href="#stats">Stats</a> •
-  <a href="#beyond-code">Beyond Code</a> •
   <a href="#contact-me">Contact</a>
 </p>
 
@@ -20,6 +19,10 @@
 I was introduced to programming when I started with Python in 2023.
 Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, TypeScript, and React, although I'm still fairly new to the last two.
 I'm interested in anything comp sci, SWEN, QA, backend, and other related fields, and I'm always learning new tools.
+I'm open to internships and co-ops.
+
+* 🧩 I love building tools that make other developers' lives easier
+* ✏️ I enjoy mentoring and helping new programmers learn fundamentals
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=000000&logo=github" alt="profile view count">
@@ -225,12 +228,6 @@ A graphing calculator made in Java with JavaFX.
   </p>
 </details>
 
-
-
-<h2 align="center" id="beyond-code">🎲 Beyond Code</h2>
-
-* 🧩 I love building tools that make other developers' lives easier
-* ✏️ I enjoy mentoring and helping new programmers learn fundamentals
 
 
 <h2 align="center" id="contact-me">📬 Contact Me</h2>
