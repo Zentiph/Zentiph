@@ -162,36 +162,39 @@ A graphing calculator made in Java with JavaFX.
 <p align="center">
   <!-- Languages -->
   <b>Languages:</b><br/>
-  <img src="https://img.shields.io/badge/python3-0f0f0f?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/c-0f0f0f?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/rust-0f0f0f?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/typescript-0f0f0f?style=for-the-badge&logo=typescript" />
-  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=python,java,c,rust,ts&theme=dark&perline=6"
+        alt="Tech stack icons"
+      />
+    </a>
+  </p>
 </p>
 
 <p align="center">
-  <!-- Testing -->
-  <b>Testing:</b><br/>
-  <img src="https://img.shields.io/badge/pytest-0f0f0f?style=for-the-badge&logo=pytest" />
-  <img src="https://img.shields.io/badge/junit5-0f0f0f?style=for-the-badge&logo=junit5" />
-  <br/>
-</p>
-<p align="center">
   <!-- Tooling -->
   <b>Tooling & DevOps:</b><br/>
-  <img src="https://img.shields.io/badge/git-0f0f0f?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/github-0f0f0f?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/docker-0f0f0f?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/gdb-0f0f0f?style=for-the-badge&logo=gnu" />
-  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,robloxstudio&theme=dark&perline=6"
+        alt="Tech stack icons"
+      />
+    </a>
+  </p>
 </p>
 <p align="center">
   <!-- Web / Frontend -->
   <b>Web:</b><br/>
-  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/react-0f0f0f?style=for-the-badge&logo=react" />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img
+        src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=6"
+        alt="Tech stack icons"
+      />
+    </a>
+  </p>
 </p>
 
 
@@ -220,10 +223,6 @@ A graphing calculator made in Java with JavaFX.
       alt="Top contribution repositories"
     />
   </p>
-  
-
-  
-
 </details>
 
 
