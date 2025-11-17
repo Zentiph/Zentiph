@@ -19,8 +19,6 @@
 I was introduced to programming when I started with Python in 2023.
 Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, TypeScript, and React, although I'm still fairly new to the last two.
 I'm interested in anything comp sci, SWEN, QA, backend, and other related fields, and I'm always learning new tools.
-I'm open to internships and co-ops.
-
 * 🧩 I love building tools that make other developers' lives easier
 * ✏️ I enjoy mentoring and helping new programmers learn fundamentals
 
@@ -39,6 +37,10 @@ I'm open to internships and co-ops.
 
 
 <h2 align="center" id="spotlight">🚀 Project Spotlight</h2>
+
+<p align="center">
+  A few things I'm especially proud of:
+</p>
 
 <table align="center">
   <tr>
@@ -162,7 +164,7 @@ A graphing calculator made in Java with JavaFX.
 
 <h2 align="center" id="languages-tools">🧑‍💻 Languages/Tools</h2>
 
-<p align="center">
+<div align="center">
   <!-- Languages -->
   <b>Languages:</b><br/>
   <p align="center">
@@ -173,9 +175,9 @@ A graphing calculator made in Java with JavaFX.
       />
     </a>
   </p>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <!-- Tooling -->
   <b>Tooling & DevOps:</b><br/>
   <p align="center">
@@ -186,8 +188,9 @@ A graphing calculator made in Java with JavaFX.
       />
     </a>
   </p>
-</p>
-<p align="center">
+</div>
+
+<div align="center">
   <!-- Web / Frontend -->
   <b>Web:</b><br/>
   <p align="center">
@@ -198,7 +201,7 @@ A graphing calculator made in Java with JavaFX.
       />
     </a>
   </p>
-</p>
+</div>
 
 
 
@@ -212,13 +215,20 @@ A graphing calculator made in Java with JavaFX.
     src="https://github-readme-stats.vercel.app/api?username=Zentiph&show_icons=true&theme=dark&hide_border=true"
     alt="Gavin's GitHub stats"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Zentiph&theme=dark&background=0f0f0f&hide_border=true" 
-    alt="GitHub Streak Stats" 
-  />
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Zentiph&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 <details>
   <summary align="center">More stats 📈</summary>
+
+  <p align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Zentiph&theme=onestar"
+      alt="GitHub Trophies"
+    />
+  </p>
 
   <p align="center">
     <img
