@@ -32,7 +32,7 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 
 * 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling
 * 🧑‍🏫 Student Lab Instructor (SLI) for an intro CS course, where I help new students debug code, understand core concepts, and build confidence
-* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and working on <a href="https://github.com/Zentiph/codimate">codimate</a>
+* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and getting ready to publish v1.0.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a>
 * 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
 
 
