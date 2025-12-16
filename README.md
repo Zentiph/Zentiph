@@ -31,7 +31,6 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 <h2 align="center" id="currently">⚡ Currently</h2>
 
 * 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling
-* 🧑‍🏫 Former Student Lab Instructor (SLI) for an intro CS course, where I helped new students debug code, understand core concepts, and build confidence
 * 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and getting ready to publish v1.0.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a>
 * 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
 
