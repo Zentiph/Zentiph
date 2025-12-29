@@ -210,11 +210,13 @@ A graphing calculator made in Java with JavaFX.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
+  <!-- this also isn't working right now 
   <img
     src="https://github-readme-stats.vercel.app/api?username=Zentiph&show_icons=true&theme=dark&hide_border=true"
     alt="Gavin's GitHub stats"
   />
-  <br/>
+  <br/> 
+  -->
   <!-- this isn't working right now
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Zentiph&theme=dark&hide_border=true" alt="GitHub Streak" />
