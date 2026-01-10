@@ -31,7 +31,7 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 <h2 align="center" id="currently">⚡ Currently</h2>
 
 * 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling
-* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and getting ready to publish v1.0.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a>
+* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and just published v0.1.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a> to PyPI
 * 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
 
 
@@ -45,12 +45,12 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
   <tr>
     <td align="center">
       <a href="https://github.com/zentiph/CatBot"><b>🐈‍⬛ CatBot</b></a><br/>
-      Discord bot with 60+ slash commands<br/>
+      Silly and fun user-focused Discord bot <br/>
       <sub>Python · Docker · Discord API</sub>
     </td>
     <td align="center">
       <a href="https://github.com/zentiph/ironclad"><b>🧱 ironclad</b></a><br/>
-      Runtime contracts for Python<br/>
+      Runtime contracts for Python developers<br/>
       <sub>Type safety · Decorators</sub>
     </td>
   </tr>
