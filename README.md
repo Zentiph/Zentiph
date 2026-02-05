@@ -144,6 +144,7 @@ A statically-typed, compiled programming language developed from scratch as a pe
 [![Issues](https://img.shields.io/github/issues/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/issues)
 
 
+<!--
 ### [Graphogato](https://github.com/zentiph/Graphogato)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
@@ -159,7 +160,7 @@ A graphing calculator made in Java with JavaFX.
 <br/>
 [![Stars](https://img.shields.io/github/stars/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/stargazers)
 [![Issues](https://img.shields.io/github/issues/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/issues)
-
+-->
 
 <h2 align="center" id="languages-tools">🧑‍💻 Languages/Tools</h2>
 
