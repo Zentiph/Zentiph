@@ -31,7 +31,7 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 <h2 align="center" id="currently">⚡ Currently</h2>
 
 * 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling
-* 🛠️ Maintaining <a href="https://github.com/Zentiph/CatBot">CatBot</a> and just published v0.1.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a> to PyPI
+* 🛠️ Maintaining <a href="https://github.com/Zentiph/FizzBuzz">FizzBuzz</a> and just published v0.1.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a> to PyPI
 * 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
 
 
@@ -44,7 +44,7 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/zentiph/CatBot"><b>🐈‍⬛ CatBot</b></a><br/>
+      <a href="https://github.com/zentiph/FizzBuzz"><b>🥤 FizzBuzz</b></a><br/>
       Silly and fun user-focused Discord bot <br/>
       <sub>Python · Docker · Discord API</sub>
     </td>
@@ -71,7 +71,7 @@ I'm interested in anything comp sci, SWEN, QA, backend, and other related fields
 
 <h2 align="center" id="project-showcase">🛠️ Project Showcase</h2>
 
-### [CatBot](https://github.com/zentiph/CatBot)
+### [FizzBuzz](https://github.com/zentiph/FizzBuzz)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![discord.py](https://img.shields.io/badge/discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -82,14 +82,14 @@ A general, all-purpose Discord bot made for a friend group server.
 * 60+ user-interactive slash commands to play games, customize role colors, and more
 * 10+ moderation slash commands for server administration
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/commits/main) 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/commits/main) 
 <br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/python)
-[![GitHub License](https://img.shields.io/github/license/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/CatBot/blob/main/license.md) 
+[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/python)
+[![GitHub License](https://img.shields.io/github/license/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/FizzBuzz/blob/main/license.md) 
 <br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/catbot?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/catbot/issues)
+[![Stars](https://img.shields.io/github/stars/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/stargazers)
+[![Issues](https://img.shields.io/github/issues/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/issues)
 
 ### [codimate](https://github.com/zentiph/codimate)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
