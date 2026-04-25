@@ -1,256 +1,32 @@
-<h1 align="center">👋 Hi, I'm Gavin</h1>
-
+<h1 align="center">Gavin Borne</h1>
 <p align="center">
-  CS Undergrad @ RIT • Backend & Tooling Enjoyer • Open to Internships/Co-ops
+  CS @ RIT • Full-Stack Developer w/ Backend Focus • Open to Internships/Co-ops
 </p>
 
+I'm a CS student at RIT who started programming in 2023 and I've since built a feature-rich Discord bot, published a Python library, and my own portfolio website.
+I care about writing quality software that doesn't just ship, but is also maintainable and easy to understand.
+
+## Skills
+**Languages:** Python • Java • C • Rust • TypeScript • HTML/CSS \
+**Frameworks:** discord.py • Spring Boot • Angular • pytest • JUnit \
+**Tools:** Git • Docker • SQL • SSH • React
+
+## Project Spotlight
+### [FizzBuzz](https://github.com/Zentiph/FizzBuzz)
+Feature-rich Discord bot with 60+ commands and moderation tools \
+<sub>Python • discord.py • SQLite • Docker</sub>
+
+### [ironclad](https://github.com/Zentiph/ironclad)
+Runtime type enforcement & contract validation library for Python \
+<sub>Python • decorators • pytest • PyPI</sub>
+
+### [personal-site](https://github.com/Zentiph/personal-site)
+My portfolio site, showcasing my full dev stack with better visual flair \
+<sub>TypeScript • React • Next.js • Tailwind • Vercel</sub>
+
+## Contact Me
+If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, please feel free to reach out.
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#currently">Currently</a> •
-  <a href="#spotlight">Spotlight</a> •
-  <a href="#project-showcase">Projects</a> •
-  <a href="#languages-tools">Skills</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#contact-me">Contact</a>
-</p>
-
-<h2 align="center" id="about-me">🙋 About Me</h2>
-
-I was introduced to programming when I started with Python in 2023.
-Since then I've been broadening my horizons, programming in Java, C, Lua/Luau, TypeScript, and React, although I'm still fairly new to the last two.
-I'm interested in anything comp sci, SWEN, QA, backend, and other related fields, and I'm always learning new tools.
-* 🧩 I love building tools that make other developers' lives easier
-* ✏️ I enjoy mentoring and helping new programmers learn fundamentals
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zentiph&style=flat-square&color=000000&logo=github" alt="profile view count">
-  <a href="https://github.com/Zentiph?tab=followers"><img src="https://img.shields.io/github/followers/zentiph?style=flat-square&color=000000&logo=github" alt="follower count"></a>
-</p>
-
-
-<h2 align="center" id="currently">⚡ Currently</h2>
-
-* 🎓 CS undergrad @ RIT, focusing on backend, SWEN, and developer tooling
-* 🛠️ Maintaining <a href="https://github.com/Zentiph/FizzBuzz">FizzBuzz</a> and just published v0.1.0 of <a href="https://github.com/Zentiph/ironclad">ironclad</a> to PyPI
-* 🔍 Looking for <b>internships/co-ops in software engineering / backend / QA</b>
-
-
-<h2 align="center" id="spotlight">🚀 Project Spotlight</h2>
-
-<p align="center">
-  A few things I'm especially proud of:
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zentiph/FizzBuzz"><b>🥤 FizzBuzz</b></a><br/>
-      Silly and fun user-focused Discord bot <br/>
-      <sub>Python · Docker · Discord API</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zentiph/ironclad"><b>🧱 ironclad</b></a><br/>
-      Runtime contracts for Python developers<br/>
-      <sub>Type safety · Decorators</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zentiph/zen"><b>🧪 Zen</b></a><br/>
-      Experimental compiled language<br/>
-      <sub>C · Compiler design</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zentiph/codimate"><b>🎬 codimate</b></a><br/>
-      Programmatic code animations<br/>
-      <sub>Rust · Python · ffmpeg</sub>
-    </td>
-  </tr>
-</table>
-
-
-<h2 align="center" id="project-showcase">🛠️ Project Showcase</h2>
-
-### [FizzBuzz](https://github.com/zentiph/FizzBuzz)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![discord.py](https://img.shields.io/badge/discord.py-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-
-A general, all-purpose Discord bot made for a friend group server.
-* 60+ user-interactive slash commands to play games, customize role colors, and more
-* 10+ moderation slash commands for server administration
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/commits/main) 
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/python)
-[![GitHub License](https://img.shields.io/github/license/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/FizzBuzz/blob/main/license.md) 
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/FizzBuzz?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/FizzBuzz/issues)
-
-### [codimate](https://github.com/zentiph/codimate)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-An engine for programmatic code animations, inspired by [3b1b's manim](https://github.com/3b1b/manim) and 2swap's [swaptube](https://github.com/2swap/swaptube).
-* Rust API for creating frames/scenes
-* Pipeline to ffmpeg for video rendering
-* Python wrapper API for improved development speed while maintaining blazingly fast rendering
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/commits/master)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/commits/master) 
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/rust)
-[![GitHub License](https://img.shields.io/github/license/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/codimate/blob/master/LICENSE) 
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/codimate?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/codimate/issues)
-
-### [ironclad](https://github.com/zentiph/ironclad)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-
-A library that helps developers write defensive, self-documenting Python code.
-* Decorators and helper utilities to enforce types, value sets, and other runtime contracts
-* Additional runtime-related tools such as Java-like function overloads
-* Low-boilerplate API
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/ironclad/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/ironclad/commits/main)
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/python)
-[![GitHub License](https://img.shields.io/github/license/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/ironclad/blob/main/LICENSE.md)
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/ironclad/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/ironclad?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/ironclad/issues)
-
-
-### [Zen](https://github.com/Zentiph/Zen)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-A statically-typed, compiled programming language developed from scratch as a personal learning project, aiming to blend the type safety and structure of Java with the simplicity and developer-friendly nature of Python.
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/commits/main)
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/c)
-[![GitHub License](https://img.shields.io/github/license/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/zen/blob/main/LICENSE.md)
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/zen?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/zen/issues)
-
-
-<!--
-### [Graphogato](https://github.com/zentiph/Graphogato)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-A graphing calculator made in Java with JavaFX.
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
-[![Last Commit](https://img.shields.io/github/last-commit/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/commits/main)
-<br/>
-[![GitHub top language](https://img.shields.io/github/languages/top/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/topics/java)
-[![GitHub License](https://img.shields.io/github/license/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/Zentiph/graphogato/blob/main/LICENSE)
-<br/>
-[![Stars](https://img.shields.io/github/stars/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/stargazers)
-[![Issues](https://img.shields.io/github/issues/zentiph/graphogato?style=flat-square&labelColor=0f0f0f)](https://github.com/zentiph/graphogato/issues)
--->
-
-<h2 align="center" id="languages-tools">🧑‍💻 Languages/Tools</h2>
-
-<div align="center">
-  <!-- Languages -->
-  <b>Languages:</b><br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img
-        src="https://skillicons.dev/icons?i=python,java,c,rust,ts&theme=dark&perline=6"
-        alt="Tech stack icons"
-      />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <!-- Tooling -->
-  <b>Tooling & DevOps:</b><br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img
-        src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,robloxstudio&theme=dark&perline=6"
-        alt="Tech stack icons"
-      />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <!-- Web / Frontend -->
-  <b>Web:</b><br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img
-        src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=6"
-        alt="Tech stack icons"
-      />
-    </a>
-  </p>
-</div>
-
-
-
-<h2 align="center" id="stats">📊 Stats</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zentiph&theme=dark" alt="GitHub Profile Summary Card"/>
-  <!-- this also isn't working right now 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Zentiph&show_icons=true&theme=dark&hide_border=true"
-    alt="Gavin's GitHub stats"
-  />
-  <br/> 
-  -->
-  <!-- this isn't working right now
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Zentiph&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-  -->
-</p>
-<!-- also not currently working
-<details>
-  <summary align="center">More stats 📈</summary>
-  <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Zentiph&theme=onestar"
-      alt="GitHub Trophies"
-    />
-  </p>
-  <p align="center">
-    <img
-      src="https://github-contributor-stats.vercel.app/api?username=Zentiph&limit=5&theme=dark&combine_all_yearly_contributions=true"
-      alt="Top contribution repositories"
-    />
-  </p>
-</details>
--->
-
-
-
-<h2 align="center" id="contact-me">📬 Contact Me</h2>
-
-<!-- Most badge styles taken from https://github.com/Ileriayo/markdown-badges -->
-
-If you have any hiring inquiries, questions, comments, or other matters you'd like to speak with me about, feel free to reach out.
-<p align="center">
-  <a href="mailto:zentiphdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-zentiphdev%40gmail.com-000000?style=flat-square&logo=gmail&labelColor=0f0f0f" alt="Zentiph's email (zentiphdev@gmail.com)"></a>
-  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gavin--borne-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="Zentiph's LinkedIn"></a>
-  <img src="https://img.shields.io/badge/timezone-ET-000000?style=flat-square&labelColor=0f0f0f" alt="Zentiph's timezone (ET)">
+  <a href="mailto:gavin.bor0925@gmail.com" target="_blank">gavin.bor0925@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/gavin-borne/" target="_blank">linkedin.com/in/gavin-borne</a>
 </p>
